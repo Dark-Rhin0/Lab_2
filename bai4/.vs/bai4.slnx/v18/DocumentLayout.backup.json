@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Dhino\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\cpp\\bai4\\",
+  "WorkspaceRootPath": "C:\\Users\\Dhino\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Lab_2\\bai4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5D40A5D6-4B20-424C-AA2D-D8A98AD32F4B}|bai4\\bai4.vcxproj|C:\\Users\\Dhino\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\cpp\\bai4\\bai4\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{5D40A5D6-4B20-424C-AA2D-D8A98AD32F4B}|bai4\\bai4.vcxproj|C:\\Users\\Dhino\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Lab_2\\bai4\\bai4\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5D40A5D6-4B20-424C-AA2D-D8A98AD32F4B}|bai4\\bai4.vcxproj|solutionrelative:bai4\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D40A5D6-4B20-424C-AA2D-D8A98AD32F4B}|bai4\\bai4.vcxproj|C:\\Users\\Dhino\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\cpp\\bai4\\bai4\\Time.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{5D40A5D6-4B20-424C-AA2D-D8A98AD32F4B}|bai4\\bai4.vcxproj|C:\\Users\\Dhino\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Lab_2\\bai4\\bai4\\Time.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5D40A5D6-4B20-424C-AA2D-D8A98AD32F4B}|bai4\\bai4.vcxproj|solutionrelative:bai4\\Time.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5D40A5D6-4B20-424C-AA2D-D8A98AD32F4B}|bai4\\bai4.vcxproj|C:\\Users\\Dhino\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\cpp\\bai4\\bai4\\Time.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{5D40A5D6-4B20-424C-AA2D-D8A98AD32F4B}|bai4\\bai4.vcxproj|C:\\Users\\Dhino\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Lab_2\\bai4\\bai4\\Time.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{5D40A5D6-4B20-424C-AA2D-D8A98AD32F4B}|bai4\\bai4.vcxproj|solutionrelative:bai4\\Time.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Time.h",
-              "DocumentMoniker": "C:\\Users\\Dhino\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\cpp\\bai4\\bai4\\Time.h",
+              "DocumentMoniker": "C:\\Users\\Dhino\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Lab_2\\bai4\\bai4\\Time.h",
               "RelativeDocumentMoniker": "bai4\\Time.h",
-              "ToolTip": "C:\\Users\\Dhino\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\cpp\\bai4\\bai4\\Time.h",
+              "ToolTip": "C:\\Users\\Dhino\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Lab_2\\bai4\\bai4\\Time.h",
               "RelativeToolTip": "bai4\\Time.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-04-01T16:01:57.618Z",
               "EditorCaption": ""
@@ -41,11 +41,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Time.cpp",
-              "DocumentMoniker": "C:\\Users\\Dhino\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\cpp\\bai4\\bai4\\Time.cpp",
+              "DocumentMoniker": "C:\\Users\\Dhino\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Lab_2\\bai4\\bai4\\Time.cpp",
               "RelativeDocumentMoniker": "bai4\\Time.cpp",
-              "ToolTip": "C:\\Users\\Dhino\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\cpp\\bai4\\bai4\\Time.cpp",
+              "ToolTip": "C:\\Users\\Dhino\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Lab_2\\bai4\\bai4\\Time.cpp",
               "RelativeToolTip": "bai4\\Time.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAACwAAAAAAAAAAAAwwEkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-04-01T16:02:33.448Z",
               "EditorCaption": ""
@@ -54,11 +54,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
-              "DocumentMoniker": "C:\\Users\\Dhino\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\cpp\\bai4\\bai4\\main.cpp",
+              "DocumentMoniker": "C:\\Users\\Dhino\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Lab_2\\bai4\\bai4\\main.cpp",
               "RelativeDocumentMoniker": "bai4\\main.cpp",
-              "ToolTip": "C:\\Users\\Dhino\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\cpp\\bai4\\bai4\\main.cpp",
+              "ToolTip": "C:\\Users\\Dhino\\OneDrive\\\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\\Lab_2\\bai4\\bai4\\main.cpp",
               "RelativeToolTip": "bai4\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-04-01T16:00:26.2Z",
               "EditorCaption": ""

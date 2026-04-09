@@ -7,19 +7,19 @@ int main() {
     SoAo a, b;
 
 
-    cout << "Nhap so Thuc a:\n";
+    cout << "Nhap so Ao a:\n";
     a.Nhap();
 
 
-    cout << "Nhap so Thuc b:\n";
+    cout << "Nhap so Ao b:\n";
     b.Nhap();
 
 
-    cout << "\nSo thuc a: ";
+    cout << "\nSo Ao a: ";
     a.Xuat();
 
 
-    cout << "\nSo thuc b: ";
+    cout << "\nSo Ao b: ";
     b.Xuat();
 
 
