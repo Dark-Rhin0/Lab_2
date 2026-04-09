@@ -1,0 +1,5 @@
+﻿  So_ao.cpp
+C:\Users\Dhino\OneDrive\ドキュメント\cpp\oopPractice\oopPractice\So_ao.cpp(53,13): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  main.cpp
+  Generating Code...
+  oopPractice.vcxproj -> C:\Users\Dhino\OneDrive\ドキュメント\cpp\oopPractice\x64\Debug\oopPractice.exe
